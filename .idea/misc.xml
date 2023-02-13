@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/drawable-anydpi/ic_doanhthu.xml" value="0.2703125" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/drawable-anydpi/ic_sach.xml" value="0.24074074074074073" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/drawable-v24/back1.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/drawable/back.xml" value="0.14947916666666666" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/drawable/duongvienbogoc.xml" value="0.21481481481481482" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/font/font.xml" value="0.159375" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/activity_load_screen.xml" value="0.22418478260869565" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/activity_main.xml" value="0.1721014492753623" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/activity_man_hinh_chao2.xml" value="0.2418478260869565" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/activity_man_hinh_chao2s.xml" value="0.22871376811594202" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_adapter_loaisach.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_adapter_sach.xml" value="0.24003623188405798" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_adapter_thanh_vien.xml" value="0.24003623188405798" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_adapter_thuthu.xml" value="0.24003623188405798" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_ryc_loaisach.xml" value="0.4" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_ryc_phieu_muon.xml" value="0.24003623188405798" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_ryc_sach.xml" value="0.1621376811594203" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_ryc_thanhvien.xml" value="0.2033514492753623" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/custom_ryc_thu_thu.xml" value="0.24818840579710144" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_add_loai_sach.xml" value="0.20072992700729927" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_add_phieu_muon.xml" value="0.24003623188405798" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_add_sach.xml" value="0.1621376811594203" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_add_thanh_vien.xml" value="0.2033514492753623" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_add_thu_thu.xml" value="0.24818840579710144" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_dang_xuat.xml" value="0.24818840579710144" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_delete_loai_sach.xml" value="0.12360688956433637" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_delete_phieu_muon.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_delete_sach.xml" value="0.24818840579710144" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_delete_thanh_vien.xml" value="0.2033514492753623" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_delete_thu_thu.xml" value="0.1296875" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_sua_loaisach.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_sua_phieu_muon.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_sua_sach.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_sua_so_luong.xml" value="0.22871376811594202" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_sua_thanhvien.xml" value="0.19791666666666666" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/dialog_sua_thuthu.xml" value="0.21693840579710144" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_dang_xuat.xml" value="0.24818840579710144" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_doanh_thu.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_doi_mat_khau.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_home.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_loai_sach.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_phieu_muon.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_sach.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_thanh_vien.xml" value="0.1" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_thu_thu.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/frg_top10.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/header_nav_drw.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/loai_sach_fragment.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/nav_header.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/navigationview.xml" value="0.1721014492753623" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/phieu_muon_fragment.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/sach_fragment.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/thanh_vien_fragment.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/layout/thu_thu_fragment.xml" value="0.25407608695652173" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/menu/drawer_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/menu/header_nav_drw.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAnMau/sonnmph13824_MOB2041_Ass/app/src/main/res/menu/nav_header.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

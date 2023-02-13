@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#33FF99"
+    android:orientation="vertical"
+    tools:context=".LoadScreenActivity">
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="220dp"
+        android:layout_marginTop="180dp"
+        android:src="@drawable/thuvien"
+        android:layout_marginLeft="100dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+
+
+        android:gravity="center_horizontal"
+        android:textColor="@color/white"
+
+        android:text="CHÀO MỪNG ĐẾN VỚI"/>
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="60dp"
+        android:layout_margin="30dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/white"
+
+        android:text="DỰ ÁN MẪU"/>
+
+
+</LinearLayout>

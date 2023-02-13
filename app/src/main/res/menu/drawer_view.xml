@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/nav_home" android:title="Trang chủ" android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/nav_phieuMuon" android:title="Quản Lý Phiếu Mượn " android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/nav_loaiSach" android:title="Quản Lý Loại Sách " android:icon="@drawable/ic_loaisach"/>
+    <item android:id="@+id/nav_sach" android:title="Quản Lý Sách " android:icon="@drawable/ic_sach"/>
+    <item android:id="@+id/nav_quanLyThanhVien" android:title="Quản Lý Thành Viên " android:icon="@drawable/ic_thanhvien"/>
+</group>
+    <group >
+        <item android:id="@+id/subtitle" android:title="Thống kê ">
+            <menu>
+        <item android:id="@+id/nav_top10" android:title="10 Sách mượn nhiều nhất " android:icon="@drawable/ic_top10" />
+        <item android:id="@+id/nav_doanhThu" android:title="Doanh thu" android:icon="@drawable/ic_doanhthu"/>
+            </menu>
+        </item>
+    </group>
+    <group android:checkableBehavior="single" >
+        <item android:title="Người dùng "><menu>
+            <item android:id="@+id/nav_ThuThu" android:title="Thêm Thủ Thư " android:icon="@android:drawable/btn_radio"/>
+
+
+        <item android:id="@+id/nav_dangXuat" android:title="Đăng xuất" android:icon="@drawable/ic_dangxuat"/>
+        </menu></item>
+    </group>
+</menu>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/nen11"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="30dp"
+        android:paddingLeft="15dp"
+        android:layout_margin="10dp"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/tvSuaTenSach"/>
+    <EditText
+
+        android:layout_margin="10dp"
+        android:textColor="@color/white"
+        android:paddingLeft="15dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/edSuaSoLuong"/>
+    <LinearLayout
+        android:layout_margin="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="Sua"
+            android:background="@drawable/back"
+            android:id="@+id/btnSuaSoLuong"/>
+        <Button
+            android:layout_marginLeft="10dp"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="Huy"
+            android:background="@drawable/back"
+
+            android:id="@+id/btnHuySuaSoLuong"/>
+    </LinearLayout>
+
+
+</LinearLayout>

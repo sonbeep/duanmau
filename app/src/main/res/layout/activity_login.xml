@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#CCFFCC"
+    tools:context=".LoginActivity">
+    <ImageView
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/thuvien"
+        />
+    <EditText
+        android:id="@+id/edTaiKhoan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:hint="Nhập tài khoản"
+        android:paddingLeft="15dp"
+        android:textColorHint="#888888"
+        />
+    <EditText
+        android:password="true"
+        android:id="@+id/edMatKhau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:hint="Nhập mật khẩu "
+        android:paddingLeft="15dp"
+        android:textColorHint="#888888"
+        />
+    <EditText
+        android:password="true"
+        android:id="@+id/edNhacLaiMatKhau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:hint="Nhắc lại mật khẩu "
+        android:paddingLeft="15dp"
+        android:textColorHint="#888888"
+        />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Đăng nhập"
+            android:layout_margin="15dp"
+            android:background="@drawable/back"
+            android:id="@+id/btnDangNhap"/>
+
+
+
+
+</LinearLayout>

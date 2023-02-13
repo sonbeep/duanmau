@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#FFE7BA"
+    android:layout_height="match_parent">
+    <EditText
+        android:layout_margin="16dp"
+        android:hint="Tim theo so luong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edTimSach"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rycSach"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/fabSach"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="+"
+        android:layout_marginBottom="8dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/back"
+
+        />
+
+
+
+</LinearLayout>
